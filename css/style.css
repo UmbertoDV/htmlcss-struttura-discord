@@ -87,3 +87,34 @@ nav{
     width: 100%;
     border: 2px dashed black;
 }
+/* Footer */
+footer{
+    background-color: #23272a;
+}
+.top-footer{
+    padding: 20px;
+    border-bottom: 2px solid #b5d7e1;
+}
+.left{
+    width: 35%;
+    background-color: darkcyan;
+    border: 2px dashed black;
+}
+.right > div{
+    width: calc(100% / 4);
+    background-color: red;
+    border: 2px dashed black;
+}
+.right.cflex{
+    height: 600px;
+    width: 100%;
+}
+.buttons > button{
+    padding: 10px 20px;
+    border: 2px dashed black;
+}
+.buttons.cflex{
+    background-color: #7effd4;
+    padding: 20px 0;
+    justify-content: space-between;
+}
