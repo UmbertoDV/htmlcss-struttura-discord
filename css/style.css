@@ -75,3 +75,8 @@ nav{
     width: 60%;
     border: 2px dashed black;
 }
+/* Terza Section */
+.third-sec{
+    padding: 30px 0;
+    background-color: #d3d3d3;
+}
