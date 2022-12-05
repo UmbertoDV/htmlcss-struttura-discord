@@ -1,0 +1,29 @@
+/* General */
+header {
+    background-color: #add9e7;
+    padding: 30px 0px;
+}
+ul{
+    list-style: none;
+}
+ul > li {
+    display: inline-block;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 0 10px;
+}
+nav{
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.cflex{
+    display: flex;
+}
